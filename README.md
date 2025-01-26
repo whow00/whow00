@@ -1,8 +1,7 @@
-    /\    
-   /  \     [owh]
-  / /\ \  -------------------
- / ____ \   Developer | Tech Enthusiast
-/_/    \_\   GitHub: [whow00]
+[owh]
+-------------------
+Developer | Tech Enthusiast
+GitHub: [whow00]
 
 ✨ About Me:
 I'm a passionate developer who loves turning ideas into reality. Whether it's building scalable systems, creating intuitive interfaces, or solving complex problems, I'm always up for a challenge.
